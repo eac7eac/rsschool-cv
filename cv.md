@@ -12,6 +12,7 @@ Having discovered HTML layout, I decided to study it. In front-end development, 
 ## Skills
 * HTML5/CSS3
 * JavaScript Basics
+* Python Basics
 * Git/GitHub
 * Figma
 
